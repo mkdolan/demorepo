@@ -12,9 +12,9 @@ this is a list:
 
 1. numbered list
 2. numbered list
+3. It's always better to ask 3 questions
 
 **Bold**
 
 *Italics*
 
-Wee I'm making changes and Mike can't stop me
